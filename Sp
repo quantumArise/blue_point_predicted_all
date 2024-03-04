@@ -7,7 +7,7 @@ def Sp(Sn):
     return Sp
 
 if len(sys.argv) != 2:
-        print("Usage: calculate_Sp.py Sp")
+        print("Usage: Sp Sn")
         sys.exit(1)
 Sn = float(sys.argv[1])
 
